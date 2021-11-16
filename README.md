@@ -1,8 +1,8 @@
 ## Olá 🤓! Eu sou o Gustavo Piovani
 
- --💻 Atualmente cursando DS <br>
+ --💻 Atualmente cursando Desenvolvimento de sistemas na ETEC de SJC <br>
  --👨‍🎨 Tento ser designer as vezes 🤣 <br>
- -- Planejo ser Desenvolvedor Front-end com pézinho no back 
+ -- Planejo ser Desenvolvedor Front-end
  <div>
   <a href="https://github.com/ghyrow">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghyrow&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> -->
