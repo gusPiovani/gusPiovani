@@ -1,4 +1,4 @@
-## Olá 🤓! Eu sou o Gustavo Piovani
+## Olá 🤓 Eu sou o Gustavo Piovani
 
  --💻 Atualmente cursando Desenvolvimento de sistemas na ETEC de SJC <br>
  --👨‍🎨 Tento ser designer as vezes 🤣 <br>
