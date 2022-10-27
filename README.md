@@ -1,7 +1,7 @@
 ## Olá 🤓 Eu sou o Gustavo Piovani
 
- --💻 Atualmente cursando Desenvolvimento de sistemas na ETEC de SJC <br>
- --👨‍🎨 Designer pela Escola Advanced Computação e Artes de SJC  <br>
+ 💻 Atualmente cursando Desenvolvimento de sistemas na ETEC de SJC <br>
+ 👨‍🎨 Designer pela Escola Advanced Computação e Artes de SJC  <br>
 
  <div>
   <a href="https://github.com/ghyrow">
