@@ -27,8 +27,8 @@
    <a style="text-decoration: none !important;text-decoration-line: none !important;text-decoration-thickness: 0 !important;text-underline-offset: 0 !important;" href="https://www.credly.com/earner/earned/badge/e80a451d-5300-4ec6-a3f3-03b9eaab4860"  >
       <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="130px"/>
     </a>
- </p>
  </span>
+</div>
 
   ##
 
