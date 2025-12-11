@@ -20,11 +20,7 @@
   </a>
  <!-- Network Technician Career Path -->
  <a href="https://www.credly.com/earner/earned/badge/e80a451d-5300-4ec6-a3f3-03b9eaab4860">
-    <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="130px"/>
-  </a>
- <!-- Networking Academy Learn-A-Thon 2025 -->
- <a href="https://www.credly.com/earner/earned/badge/9aeea54b-9093-41ce-a2cb-6b174c9885df">
-    <img src="https://images.credly.com/size/340x340/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" width="130px"/>
+    <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="65px"/>
   </a>
 </p>
 
