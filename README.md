@@ -8,15 +8,19 @@
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusPiovani&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusPiovani&layout=compact&langs_count=7&theme=synthwave&border-radius"/>
 </div>
-  
+
 <div style="display: inline_block"><br>  
   <img align="center" alt="Gus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+
+### Certificações
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48e3c6f5-5a77-45af-96bd-78c12543d60d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48e3c6f5-5a77-45af-96bd-78c12543d60d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    
   ##
- 
+
 <!--<div> 
   <a href="https://instagram.com/ghpiovani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/felpsdetriciclo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
