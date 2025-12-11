@@ -1,4 +1,3 @@
-## 
  💻 Formação Técnica em Análise e Desenvolvimento de Sistemas <br>
  👨‍🎨 Designer pela Escola Advanced Computação e Artes <br>
  🔐 Analista de Inteligência de Ameaças <br>
@@ -10,6 +9,8 @@
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+##
 
 ### Certificações
 <div style="display:flex;">
