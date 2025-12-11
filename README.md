@@ -1,5 +1,5 @@
  💻 Formação Técnica em Análise e Desenvolvimento de Sistemas <br>
- 👨‍🎨 Designer pela Escola Advanced Computação e Artes <br>
+ 👨‍🎨 Designer e Arquiteto Projetista pela Escola Advanced Computação e Artes <br>
  🔐 Analista de Inteligência de Ameaças <br>
    
 ##
