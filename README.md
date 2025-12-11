@@ -1,5 +1,4 @@
-## Olá 🤓 Eu sou o Gustavo Piovani
-
+## 
  💻 Atualmente cursando Desenvolvimento de sistemas na ETEC de SJC <br>
  👨‍🎨 Designer pela Escola Advanced Computação e Artes de SJC  <br>
 
@@ -12,7 +11,7 @@
 ### Certificações
 <p align="left">
  <!-- Introduction to Cybersecurity -->
-  <a>
+  <a href="https://www.credly.com/earner/earned/badge/48e3c6f5-5a77-45af-96bd-78c12543d60d" style="text-decoration: none;">
     <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="130px"/>
   </a>
  <!-- Cyber Threat Management -->
