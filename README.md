@@ -15,12 +15,12 @@
     <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="130px"/>
   </a>
  <!-- Cyber Threat Management -->
- <a href="https://www.credly.com/earner/earned/badge/d2c3ec21-814b-401d-8eff-06cb03e59b44">
+ <a href="https://www.credly.com/earner/earned/badge/d2c3ec21-814b-401d-8eff-06cb03e59b44"  style="text-decoration: none;>
     <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="130px"/>
   </a>
  <!-- Network Technician Career Path -->
- <a href="https://www.credly.com/earner/earned/badge/e80a451d-5300-4ec6-a3f3-03b9eaab4860">
-    <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="65px"/>
+ <a href="https://www.credly.com/earner/earned/badge/e80a451d-5300-4ec6-a3f3-03b9eaab4860"  style="text-decoration: none;>
+    <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="130px"/>
   </a>
 </p>
 
