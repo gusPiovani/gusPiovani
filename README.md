@@ -10,8 +10,6 @@
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
-
 ### Certificações
 <div style="display:flex;">
    <!-- Introduction to Cybersecurity -->
