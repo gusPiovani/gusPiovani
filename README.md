@@ -9,13 +9,13 @@
 </div>
 
 ### Certificações
-<div  align="left">
- <span>
+<div align="left">
+ <p>
   <!-- Introduction to Cybersecurity -->
     <a href="https://www.credly.com/earner/earned/badge/48e3c6f5-5a77-45af-96bd-78c12543d60d">
       <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="130px"/>
     </a>
- </span>
+ </p>
  <span>
   <!-- Cyber Threat Management -->
    <a href="https://www.credly.com/earner/earned/badge/d2c3ec21-814b-401d-8eff-06cb03e59b44">
