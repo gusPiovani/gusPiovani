@@ -11,8 +11,12 @@
 
 ### Certificações
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48e3c6f5-5a77-45af-96bd-78c12543d60d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48e3c6f5-5a77-45af-96bd-78c12543d60d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    
+<p align="left">
+  <a href="https://www.credly.com/badges/48e3c6f5-5a77-45af-96bd-78c12543d60d">
+    <img src="https://images.credly.com/size/340x340/images/48e3c6f5-5a77-45af-96bd-78c12543d60d/image.png" width="130px"/>
+  </a>
+</p>
+
   ##
 
 <!--<div> 
