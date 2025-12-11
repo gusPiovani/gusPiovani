@@ -9,7 +9,7 @@
 </div>
 
 ### Certificações
-<p align="left" style="display: inline_block">
+<div  style="display: inline_block;align="left">
  <p>
   <!-- Introduction to Cybersecurity -->
     <a href="https://www.credly.com/earner/earned/badge/48e3c6f5-5a77-45af-96bd-78c12543d60d" style="text-decoration: none !important;text-decoration-line: none !important;text-decoration-thickness: 0 !important;text-underline-offset: 0 !important;">
@@ -28,7 +28,7 @@
       <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="130px"/>
     </a>
  </p>
-</p>
+</div>
 
   ##
 
